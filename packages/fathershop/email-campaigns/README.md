@@ -1,4 +1,4 @@
-FatherShop Email Campaigns
+***FatherShop Email Campaigns***
 A Laravel package for managing and sending email campaigns to customers with filtering capabilities.
 
 Features
